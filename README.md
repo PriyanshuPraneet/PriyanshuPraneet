@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year Computer Science student | Cochin University of Science and Technology<br>Passionate about continuous learning and innovation. Driven to create impactful solutions that simplify everyday life, one step at a time.<br><br>I am currently learning Data Science - Analytics, Machine Learning
+Pre-final year Computer Science student | Cochin University of Science and Technology<br>Passionate about continuous learning and innovation. Driven to create impactful solutions that simplify everyday life, one step at a time.<br><br>
 
 
 ## 🌐 Socials:
